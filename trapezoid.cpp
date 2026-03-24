@@ -16,7 +16,7 @@ int main() {
     cout << "Введите длину второй боковой стороны: ";
     cin >> side2;
 
-    // Проверка на неотрицательные значения
+    // Проверка на неотрицательные значения  izmenenia
     if (base1 <= 0 || base2 <= 0 || height <= 0 || side1 <= 0 || side2 <= 0 || height > side1 || height > side2) {
         cout << "Ошибка." << endl;
         return 1;
@@ -46,4 +46,5 @@ int main() {
     cout << "Площадь трапеции: " << area << endl;
     return 0;
 }
+
 
