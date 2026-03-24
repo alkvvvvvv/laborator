@@ -5,7 +5,7 @@ using namespace std;
 int main() {
     // Вводим данные
     double base1, base2, height, side1, side2;
-    cout << "Введите длину первого основания: ";
+    cout << "Введите длину 1  основания: ";
     cin >> base1;
     cout << "Введите длину второго основания: ";
     cin >> base2;
