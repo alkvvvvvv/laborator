@@ -1,6 +1,6 @@
 #include <iostream>
 #include <cmath>      // Для функции sqrt (квадратный корень)
-#include <stdexcept>  // Для исключений
+#include <stdexcept>  // Для исключений111
 
 using namespace std;
 
