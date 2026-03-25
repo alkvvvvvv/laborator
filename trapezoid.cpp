@@ -3,7 +3,7 @@
 using namespace std;
 
 int main() {
-    // Вводим данные
+    // Вводим данные  11
     double base1, base2, height, side1, side2;
     cout << "Введите длину 1  основания: ";
     cin >> base1;
