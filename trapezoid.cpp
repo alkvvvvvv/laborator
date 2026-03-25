@@ -31,7 +31,7 @@ int main() {
         return 1;
     }
 
-    // Средняя линия
+    // Средняя линия 1111
     double midline = (base1 + base2) / 2;
 
     // Периметр
